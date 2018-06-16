@@ -8,5 +8,6 @@ public class LoabShopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LoabShopApplication.class, args);
+		//This is a command
 	}
 }
